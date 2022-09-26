@@ -1,0 +1,47 @@
+
+.wrapper{
+	width:1100px;
+    margin:0px auto;
+    background-color:#fff ;
+
+}
+
+.mainContent{
+	overflow: auto;
+}
+
+
+
+
+form{
+	padding: 20px;
+}
+
+
+input[type="text"], 
+input[type="text"], 
+input[type="email"],
+input[type="number"],
+input[type="number"],
+input[type="Password"],
+
+
+
+select{
+	width: 97%;
+	padding: 13px;
+}
+
+label{
+	color: #c88851;
+	font-weight: bold;
+}
+
+input[type="submit"],
+input[type="reset"]{
+	padding: 13px;
+	color: #fff;
+	background-color: #c88851;
+	border-color: #c88851;
+
+
